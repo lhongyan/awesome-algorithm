@@ -5,7 +5,7 @@
 
 > The algorithm implementation in [LintCode](https://www.lintcode.com/) 
 
-![LintCode](LintCode.gif)
+![LintCode](http://p68i1i2cw.bkt.clouddn.com/LintCode.gif)
 
 1. A + B Problem
 2. Trailing Zeros

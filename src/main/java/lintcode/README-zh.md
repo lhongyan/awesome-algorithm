@@ -5,7 +5,7 @@
 
 > [LintCode](https://www.lintcode.com/)中的算法实现
 
-![LintCode](LintCode.gif)
+![LintCode](http://p68i1i2cw.bkt.clouddn.com/LintCode.gif)
 
 1. A + B 问题
 2. 尾部的零
