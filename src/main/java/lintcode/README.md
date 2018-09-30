@@ -1,4 +1,4 @@
-## LintCode
+# LintCode
 
 ![program](https://img.shields.io/badge/program-java-ff69b4.svg)
 [![language](https://img.shields.io/badge/language-中文-red.svg)](./README-zh.md)
@@ -12,6 +12,8 @@
 For example: <br>
 > aaaa -> 0001 -> 1 <br>
 > aaab -> 0002 -> 2 <br>
+
+## Contents
 
 1. A + B Problem
 2. Trailing Zeros
