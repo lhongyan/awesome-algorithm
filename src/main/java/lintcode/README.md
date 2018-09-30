@@ -7,6 +7,8 @@
 
 ![LintCode](http://p68i1i2cw.bkt.clouddn.com/LintCode.gif)
 
+## Description
+
 **Using English alphabet to sort numbers**
 
 For example: <br>
