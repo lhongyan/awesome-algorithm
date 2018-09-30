@@ -11,7 +11,7 @@
 
 **Using English alphabet to sort numbers**
 
-For example: <br>
+For example <br>
 > aaaa -> 0001 -> 1 <br>
 > aaab -> 0002 -> 2 <br>
 
