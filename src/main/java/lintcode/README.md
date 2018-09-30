@@ -10,8 +10,10 @@
 **Using English alphabet to sort numbers**
 
 For example: <br>
-aaaa -> 0001 -> 1 <br>
-aaab -> 0002 -> 2 <br>
+> aaaa -> 0001 -> 1 <br>
+> aaab -> 0002 -> 2 <br>
 
 1. A + B Problem
 2. Trailing Zeros
+
+...
