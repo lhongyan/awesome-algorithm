@@ -1,7 +1,7 @@
 ## LintCode
 
 ![program](https://img.shields.io/badge/program-java-ff69b4.svg)
-![language](https://img.shields.io/badge/language-Chinese-red.svg)
+![language](https://img.shields.io/badge/language-中文-red.svg)
 
 > The implementation that algorithm of [LintCode](https://www.lintcode.com/) 
 
