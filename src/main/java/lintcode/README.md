@@ -7,5 +7,12 @@
 
 ![LintCode](http://p68i1i2cw.bkt.clouddn.com/LintCode.gif)
 
+Using English alphabet to sort numbers
+
+for example
+
+aaaa -> 0001 -> 1
+aaab -> 0002 -> 2
+
 1. A + B Problem
 2. Trailing Zeros
